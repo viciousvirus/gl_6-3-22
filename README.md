@@ -1,8 +1,8 @@
 
 ### Stage 6 de Marzo de 2022
-#CONVERSACIÓN COMPLETA CON LA COMUNIDAD
-Preguntas recompiladas por Kibble, traducidas por ViciousVirus, resumen en este enlace: https://viciousvirus.github.io/gl_actualizaciones/
-Texto de Kibble: https://cdn.discordapp.com/attachments/636914942154375168/950450730660143104/Kibble.txt
+# CONVERSACIÓN COMPLETA CON LA COMUNIDAD
+Preguntas recompiladas por Kibble, traducidas por ViciousVirus, el texto en inglés fue hecho por Kibble que puedes obtener [aquí](https://cdn.discordapp.com/attachments/636914942154375168/950450730660143104/Kibble.txt) y el resumen [en este enlace](https://viciousvirus.github.io/gl_actualizaciones/).
+
 
 1. ¿Aceptarás todas las sugerencias con muchos votos o personalmente eliminarás algunos que no te gusten?
 -Si claramente hay una sugerencia mala votada positivamente no lo haremos. Todo es posible pero algunas requieren más trabajo que otras.
