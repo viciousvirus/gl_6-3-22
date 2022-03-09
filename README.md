@@ -73,6 +73,7 @@ Preguntas recompiladas por Kibble, traducidas por ViciousVirus, el texto en ingl
 23. ¿Añadir más edificios hará el juego más lento?
 -Tenemos unos edificios ya planeados como el de alianzas. Tenemos también planes para nuevos edificios que nunca fueron lanzados en Galaxy Life. Como edificios que den soporte a otros jugadores en guerras de puntos o algo similar. Como ejemplo, puedes ir basado en el nivel de la alianza para mejores recompensas. Como también usarlo para poner tropas que se puedan usar por otros jugadores y también decoraciones.
 
+
 24. ¿Es como un segundo búnker de amigos entonces?
 -No es para defenderte de ataques. Es usado para tus propios ataques, usando esas unidades que alguien dona.
 
